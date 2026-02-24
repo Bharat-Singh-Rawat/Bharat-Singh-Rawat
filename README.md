@@ -14,6 +14,13 @@
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
 </p>
 
+
+
+
+  <img src="fadine line.gif" width="30%" alt="fadingline" />
+
+</p>
+
 ### RESEARCH INTERESTS
 * ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
 * 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
