@@ -4,10 +4,11 @@
 
 
 <p align="center">
-
   <img src="Bharat.gif" width="30%" alt="pixel" />
-   <img src="fading line.gif" width="30%" alt="fadingline" />
+</p>
 
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
 </p>
 
 ### GITHUB TROPHIES
@@ -21,24 +22,25 @@
 * ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
 * 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
 * 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
-
-
-
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
+</p>
 ### DAILY CONTRIBUTIONS
 <p align="center">
   <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
-
-
-
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
+</p>
 ###  TECH STACK
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,python,blender,pytorch,linux,bash,github,vscode,latex,matlab,mysql,docker&theme=dark&perline=12" />
   </a>
 </p>
-
-
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
+</p>
 ###  DAILY WISDOM
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=ffcc00&center=true&vCenter=true&width=900&height=100&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.%22;%22Why+do+we+fall%3F+So+that+we+can+learn+to+pick+ourselves+up.%22;%22The+night+is+darkest+just+before+the+dawn.%22;%22Everything's+impossible+until+somebody+does+it.%22" />
