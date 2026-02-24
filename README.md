@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED;ACCESSING+MISSION+LOGS...;STATUS:+RESEARCH+ASSOCIATE;LOCATION:+AEgIS+LAB+77" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
 </p>
 
 ### 🕹️ LIVE SYSTEM STATUS (CONTRIBUTION SNAKE)
@@ -35,13 +35,9 @@
 
 ---
 
-### 📡 LIVE BEAM DIAGNOSTICS (Research Feed)
+### 🦇 THE DARK KNIGHT LOGS (Daily Wisdom)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=39ff14&center=true&vCenter=true&width=800&height=100&lines=RUNNING+CST+STUDIO+SUITE...;OPTIMIZING+PENNING+TRAP+MAGNETICS...;SIMULATING+ANTI-PROTON+TRAJECTORY...;STABILIZING+POSITRONIUM+CLOUD...;GRAVITY+MEASUREMENT+IN+PROGRESS..." />
-</p>
-
-<p align="center">
-  <i>"It's not who I am underneath, but what I do that defines me."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=ffcc00&center=true&vCenter=true&width=900&height=100&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.%22;%22Why+do+we+fall%3F+So+that+we+can+learn+to+pick+ourselves+up.%22;%22The+night+is+darkest+just+before+the+dawn.+And+I+promise+you%2C+the+dawn+is+coming.%22;%22You+either+die+a+hero+or+you+live+long+enough+to+see+yourself+become+the+villain.%22;%22Everything's+impossible+until+somebody+does+it.%22" />
 </p>
 
 <p align="center">
