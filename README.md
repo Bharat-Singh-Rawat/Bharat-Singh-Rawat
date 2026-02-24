@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img src="Bharat.gif" width="15%" alt="pixel" />
+  <img src="Bharat.gif" width="30%" alt="pixel" />
 
 </p>
 
