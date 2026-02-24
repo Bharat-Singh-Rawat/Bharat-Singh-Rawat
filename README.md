@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img src="Bharat.gif" width="10%" alt="pixel" />
+  <img src="Bharat.gif" width="30%" alt="pixel" />
 
 </p>
 
@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="Goku.gif" width="80%" alt="Introduction" />
+  <img src="Goku.gif" width="60%" alt="Introduction" />
 </p>
 
 
