@@ -33,8 +33,8 @@ My research interests include ion sources/thrusters, beam extraction/transport, 
   <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=Bharat26031992&icon=5&color=12" alt="visitor count" />
+<p align="center">
+  <img src="gamer-room.gif" width="100%" />
 </p>
 
 ### 🔝 Top Contributed Repo
