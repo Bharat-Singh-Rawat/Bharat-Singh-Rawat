@@ -82,7 +82,7 @@ RESEARCH INTERESTS
 
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
-</p
+</p>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&color=E21F26&lines=Thanks+for+visiting!+❤️;Feel+free+to+message+me+for+collaborations!;Keep+Learning,+Keep+Building!">
 </h3>
