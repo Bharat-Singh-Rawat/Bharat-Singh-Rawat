@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="Goku_bk_1.gif" width="60%" alt="Introduction" />
+  <img src="Goku.gif" width="60%" alt="Introduction" />
 </p>
 
 
