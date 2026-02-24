@@ -12,7 +12,7 @@
 * 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
 * ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
 * 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
-* 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamifications.
+* 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
 
 ---
 
