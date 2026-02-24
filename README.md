@@ -6,19 +6,13 @@
 <p align="center">
 
   <img src="Bharat.gif" width="30%" alt="pixel" />
+   <img src="fadine line.gif" width="30%" alt="fadingline" />
 
 </p>
 
 ### GITHUB TROPHIES
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
-</p>
-
-
-</p>
-
-  <img src="fadine line.gif" width="30%" alt="fadingline" />
-
 </p>
 
 ### RESEARCH INTERESTS
