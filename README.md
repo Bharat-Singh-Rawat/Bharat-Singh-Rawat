@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.tenor.com/images/b3/pixel-art-mario-gamer-room.gif" alt="Pixel Art Gamer Room" width="100%" />
+</p>
+
 # 💫 About Me:
 I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. <br>
 My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
@@ -9,10 +13,6 @@ My research interests include ion sources/thrusters, beam extraction/transport, 
 ![](https://github-readme-stats.vercel.app/api?username=Bharat26031992&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Bharat26031992&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat26031992&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-<p align="center">
-  <img src="https://media.tenor.com/images/b3/pixel-art-mario-gamer-room.gif" alt="Pixel Art Gamer Room" width="100%" />
-</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
