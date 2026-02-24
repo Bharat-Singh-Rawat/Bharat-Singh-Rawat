@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=200&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=20&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=200&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED;ACCESSING+MISSION+LOGS...;STATUS:+RESEARCH+ASSOCIATE;LOCATION:+LAB+77" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED;ACCESSING+MISSION+LOGS...;STATUS:+RESEARCH+ASSOCIATE;LOCATION:+AEgIS+LAB+77" />
 </p>
 
 ### 🕹️ LIVE SYSTEM STATUS (CONTRIBUTION SNAKE)
@@ -35,6 +35,11 @@
 
 ---
 
+### 📡 LIVE BEAM DIAGNOSTICS (Mission Feed)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=39ff14&center=true&vCenter=true&width=800&height=100&lines=RUNNING+CST+STUDIO+SUITE...;OPTIMIZING+PENNING+TRAP+MAGNETICS...;SIMULATING+ANTI-PROTON+TRAJECTORY...;STABILIZING+POSITRONIUM+CLOUD...;GRAVITY+MEASUREMENT+IN+PROGRESS..." />
+</p>
+
 <p align="center">
   <i>"It's not who I am underneath, but what I do that defines me."</i>
 </p>
@@ -50,22 +55,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=ffffff&hide_border=true" width="100%" />
 </p>
 
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharat26031992&bg_color=050505&title_color=E21F26&text_color=ffffff&icon_color=ffcc00&border_color=ffcc00&show_icons=true&include_all_commits=true&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat26031992&bg_color=050505&title_color=E21F26&text_color=ffffff&icon_color=ffcc00&border_color=ffcc00&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Bharat26031992&background=050505&stroke=ffcc00&ring=E21F26&fire=E21F26&currStreakLabel=ffcc00&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff&dates=aaaaaa" />
-</p>
-
-### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Bharat26031992&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-
 ---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bharat26031992&color=E21F26&style=flat-square&label=MISSION+SIGHTINGS" alt="Profile Views" />
 </p>
