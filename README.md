@@ -7,18 +7,6 @@
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
 </p>
 
----
-### 🧬 EVOLUTIONARY LOGIC (Conway's Game of Life)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/game-of-life.svg" alt="Conway's Game of Life contribution evolution" width="1000" />
-</p>
-
-<p align="center">
-  <i>The grid above uses your contribution data as the initial state. 
-  Pixels survive, die, or reproduce based on the density of your daily commits.</i>
-</p>
-### 
-
 ### RESEARCH INTERESTS
 * ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
 * 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
