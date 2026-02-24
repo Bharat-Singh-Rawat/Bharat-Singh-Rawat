@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED:+DR.+BHARAT+SINGH+RAWAT;AFFILIATION:+UNIVERSITY+OF+LIVERPOOL;ACCESSING+CERN+AEgIS+MISSION+LOG...;STATUS:+RESEARCH+ASSOCIATE" />
 </p>
 
-<p align="center">
-  <img src="batman.gif" width="150">
-</p>
-
 ---
 
 ### 📂 SUBJECT: ABOUT ME
