@@ -78,11 +78,8 @@ RESEARCH INTERESTS
 
 <p align="center">
     <img src="batman.gif" width="20%" alt="joker" />
-  <img src="joker-heath-ledger.gif" width="40%" alt="joker" />
+  <img src="joker-heath-ledger.gif" width="70%" alt="joker" />
 </p>
-<p align="center">
- <img src="fading line.gif" width="100%" alt="fadingline" />
-</p
 
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
