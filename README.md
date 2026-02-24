@@ -8,7 +8,15 @@
 </p>
 
 ---
+### 🧬 EVOLUTIONARY LOGIC (Conway's Game of Life)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/game-of-life.svg" alt="Conway's Game of Life contribution evolution" width="1000" />
+</p>
 
+<p align="center">
+  <i>The grid above uses your contribution data as the initial state. 
+  Pixels survive, die, or reproduce based on the density of your daily commits.</i>
+</p>
 ### 
 
 ### RESEARCH INTERESTS
