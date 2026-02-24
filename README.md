@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d3a6406f693.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/L6S3/L6S3/main/assets/pixel-art.gif" width="100%" />
 </p>
 
 # 💫 About Me:
