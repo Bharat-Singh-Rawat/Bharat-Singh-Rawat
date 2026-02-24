@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx9u9zdE07S/giphy.gif" width="100">
+</p>
 # 💫 About Me:
 I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. <br>
 My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
