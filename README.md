@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a Research Associate with the university of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN.<br>I am interested in Digital Twins, Charged particle transport, Game design.
+I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. <br>
+My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
 
 ![Snake Animation](https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg)
 # 💻 Tech Stack:
