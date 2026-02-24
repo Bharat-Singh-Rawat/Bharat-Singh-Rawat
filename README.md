@@ -1,12 +1,33 @@
+# <p align="center">🦇 MISSION DOSSIER: THE DARK KNIGHT OF CERN 🩸</p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=850&height=50&lines=INITIALIZING+WAYNE+TECH+BEYOND+OS...;DECRYPTING+CERN+AEgIS+FILES;ACCESSING+THE+ANTIMATTER+CHRONICLES;SUBJECT:+BHARAT+|+RESEARCH+ASSOCIATE" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontColor=E21F26&animation=fadeIn" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED:+DR.+BHARAT+SINGH+RAWAT;AFFILIATION:+UNIVERSITY+OF+LIVERPOOL;ACCESSING+CERN+AEgIS+MISSION+LOG...;STATUS:+RESEARCH+ASSOCIATE" />
+</p>
 
+---
 
-💫 About Me:
-I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
+### 📂 SUBJECT: ABOUT ME
+> [!IMPORTANT]
+> **I am a Research Associate with the University of Liverpool.** Currently, I work with **beam dynamics simulations** for the **AEgIS antimatter experiment at CERN**. 
 
+**Tactical Interests & Research:**
+* ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
+* 🔋 **Ion Sources & Thrusters:** Engineering the next generation of propulsion.
+* ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
+* 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
+* 🎮 **Game Design:** Applying simulation logic to interactive worlds.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJmZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx9u9zdE07S/giphy.gif" width="100">
+  <br>
+  <i>"It's not who I am underneath, but what I do that defines me."</i>
+</p>
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=flat&logo=octave&logoColor=fcd683) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=flat&logo=Adobe%20Audition&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
