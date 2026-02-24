@@ -1,6 +1,8 @@
 <p align="center">
-  <video src="Bharat.mp4" width="20%" autoplay loop muted playsinline></video>
+  <video src="https://github.com/user-attachments/assets/026a6d51-3683-43ad-b3f9-a7ae036604e6" width="20%" autoplay loop muted playsinline></video>
 </p>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;I+ALSO+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH.;" />
