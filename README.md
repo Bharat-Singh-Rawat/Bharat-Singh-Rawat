@@ -2,13 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;I+ALSO+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH.;" />
 </p>
 
----
+
 <p align="center">
 
   <img src="Bharat.gif" width="30%" alt="pixel" />
 
 </p>
----
+
 ### GITHUB TROPHIES
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
@@ -21,7 +21,7 @@
 * 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
 * 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
 
----
+
 
 ### DAILY CONTRIBUTIONS
 <p align="center">
