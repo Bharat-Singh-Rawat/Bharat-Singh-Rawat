@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueXpueXpueXpueXpueXpueXpueXpueXpueXpueXpueJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/3o7TKMGpx9u9zdE07S/giphy.gif" width="100">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bharat26031992&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=E21F26&text_color=ffffff" alt="Batman Stats" />
 </p>
 # 💫 About Me:
 I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. <br>
