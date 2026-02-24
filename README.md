@@ -31,11 +31,6 @@
   <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-### 🧊 3D SPATIAL ANALYSIS (Contributions)
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Bharat26031992/Bharat26031992/profile-3d-contrib/profile-night-green.svg" width="100%" />
-</p>
-
 ---
 
 ### ⚔️ THE KILL BILL TOOLKIT (Tech Stack)
