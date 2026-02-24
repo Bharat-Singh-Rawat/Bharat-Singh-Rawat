@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=200&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=220&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-### 📡 LIVE BEAM DIAGNOSTICS (Mission Feed)
+### 📡 LIVE BEAM DIAGNOSTICS (Research Feed)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=39ff14&center=true&vCenter=true&width=800&height=100&lines=RUNNING+CST+STUDIO+SUITE...;OPTIMIZING+PENNING+TRAP+MAGNETICS...;SIMULATING+ANTI-PROTON+TRAJECTORY...;STABILIZING+POSITRONIUM+CLOUD...;GRAVITY+MEASUREMENT+IN+PROGRESS..." />
 </p>
@@ -52,7 +52,7 @@
 
 ### 📈 MISSION METRICS (Activity Pulse)
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
