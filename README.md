@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Goku_bk_rm.gif" width="50%" alt="Introduction" />
+  <img src="Goku_bk_rm_1.gif" width="100%" alt="Introduction" />
 </p>
 
 <p align="center">
