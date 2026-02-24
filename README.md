@@ -43,7 +43,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=ffcc00&center=true&vCenter=true&width=900&height=100&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.%22;%22Why+do+we+fall%3F+So+that+we+can+learn+to+pick+ourselves+up.%22;%22The+night+is+darkest+just+before+the+dawn.%22;%22Everything's+impossible+until+somebody+does+it.%22" />
 </p>
----
+
 <p align="center">
   <img src="Goku.gif" width="60%" alt="Introduction" />
 </p>
