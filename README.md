@@ -1,5 +1,3 @@
-# <p align="center">🦇Dr.Bharat Singh Rawat 🩸</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontColor=E21F26&animation=fadeIn" />
 </p>
