@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
 </p>
----
+
 ### RESEARCH INTERESTS
 * ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
 * 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
----
+
 
 ###  TECH STACK
 <p align="left">
@@ -37,7 +37,6 @@
   </a>
 </p>
 
----
 
 ###  DAILY WISDOM
 <p align="center">
