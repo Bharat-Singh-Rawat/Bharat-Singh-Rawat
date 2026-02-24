@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED:+DR.+BHARAT+SINGH+RAWAT;AFFILIATION:+UNIVERSITY+OF+LIVERPOOL;ACCESSING+CERN+AEgIS+MISSION+LOG...;STATUS:+RESEARCH+ASSOCIATE" />
 </p>
 
-### 🕹️ LIVE SYSTEM STATUS (THE SNAKE)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ### 📂 SUBJECT: ABOUT ME
 > [!IMPORTANT]
 > **I am a Research Associate with the University of Liverpool.** Currently, I work with **beam dynamics simulations** for the **AEgIS antimatter experiment at CERN**. 
@@ -36,6 +31,10 @@
 
 <p align="center">
   <img src="gamer-room.gif" width="100%" alt="Gamer Room Banner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 # 📊 GitHub Stats:
