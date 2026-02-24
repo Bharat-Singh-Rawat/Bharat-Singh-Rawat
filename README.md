@@ -1,24 +1,21 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=200&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=CERN%20AEgIS%20|%20University%20of%20Liverpool&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=200&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=20&animation=twinkling&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED;ACCESSING+MISSION+LOGS...;STATUS:+RESEARCH+ASSOCIATE;LOCATION:+CERN+LAB+77" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED;ACCESSING+MISSION+LOGS...;STATUS:+RESEARCH+ASSOCIATE;LOCATION:+LAB+77" />
 </p>
 
 ### 🕹️ LIVE SYSTEM STATUS (CONTRIBUTION SNAKE)
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
 ### 📂 SUBJECT: DOSSIER
 > [!IMPORTANT]
-> **I am a Research Associate with the University of Liverpool.** Currently, I work with **beam dynamics simulations** for the **AEgIS antimatter experiment at CERN**. 
+> **I am a Research Associate with the University of Liverpool.** Currently, I work with **beam dynamics simulations** for **low-energy antimatter experiments**. 
 
 **Tactical Interests & Research:**
 * ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
