@@ -1,11 +1,12 @@
-
-<p align="center">
-  <img src="Goku_bk_1.gif" width="100%" alt="Introduction" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;I+ALSO+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH.;" />
 </p>
+
+
+<p align="center">
+  <img src="Goku_bk_1.gif" width="60%" alt="Introduction" />
+</p>
+
 
 ### 🏆 MISSION ACHIEVEMENTS (GitHub Trophies)
 <p align="center">
