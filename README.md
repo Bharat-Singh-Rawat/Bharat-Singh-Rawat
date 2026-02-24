@@ -3,11 +3,6 @@
 </p>
 
 
-<p align="center">
-  <img src="Goku.gif" width="80%" alt="Introduction" />
-</p>
-
-
 ### 🏆 MISSION ACHIEVEMENTS (GitHub Trophies)
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
@@ -49,18 +44,15 @@
 
 ---
 
-### 📈 MISSION METRICS (Activity Pulse)
+### METRICS 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Tongue.png" width="8%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="8%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Relieved%20Face.png" width="8%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Astonished%20Face.png" width="8%" />
-  <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" width="8%" />
+  <img src="Goku.gif" width="80%" alt="Introduction" />
 </p>
+
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&color=E21F26&lines=Thanks+for+visiting!+❤️;Feel+free+to+message+me+for+collaborations!;Keep+Learning,+Keep+Building!">
