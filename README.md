@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=220&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
 </p>
 
 ### 🕹️ LIVE SYSTEM STATUS (CONTRIBUTION SNAKE)
@@ -22,8 +22,10 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=220&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
 </p>
+
+
 
 ### ⚔️ THE KILL BILL TOOLKIT (Tech Stack)
 <p align="left">
