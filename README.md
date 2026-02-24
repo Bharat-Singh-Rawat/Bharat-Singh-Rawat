@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=220&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
 </p>
 
-### 🕹️ LIVE SYSTEM STATUS (CONTRIBUTION SNAKE)
+
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
 </p>
 
 ---
@@ -21,10 +22,11 @@
 * 🎮 **Game Design:** Applying simulation logic to interactive worlds.
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=E21F26&height=220&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontAlignY=35&desc=University%20of%20Liverpool&descAlignY=55&descSize=22&animation=twinkling&fontColor=ffffff" />
-</p>
 
+### 🕹️ (CONTRIBUTIONS)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
 
 ### ⚔️ THE KILL BILL TOOLKIT (Tech Stack)
@@ -36,7 +38,7 @@
 
 ---
 
-### 🦇 THE DARK KNIGHT LOGS (Daily Wisdom)
+### 🦇 DAILY WISDOM
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=1000&color=ffcc00&center=true&vCenter=true&width=900&height=100&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.%22;%22Why+do+we+fall%3F+So+that+we+can+learn+to+pick+ourselves+up.%22;%22The+night+is+darkest+just+before+the+dawn.+And+I+promise+you%2C+the+dawn+is+coming.%22;%22You+either+die+a+hero+or+you+live+long+enough+to+see+yourself+become+the+villain.%22;%22Everything's+impossible+until+somebody+does+it.%22" />
 </p>
