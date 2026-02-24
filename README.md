@@ -2,18 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO,+MY+NAME+IS+BHARAT+AND+WELCOME+TO+MY+PROFILE;I+ENGINEER+NEXT-GEN+PARTICLE+ACCELERATORS;I+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH;I+TRACK+THE+BUILDING+BLOCKS+OF+THE+UNIVERSE" />
 </p>
 
----
-
-### 📂 SUBJECT: DOSSIER
-> [!IMPORTANT]
-> **I am a Research Associate with the University of Liverpool.** Currently, I work with **beam dynamics simulations** for **low-energy antimatter experiments**. 
-
-**Tactical Interests & Research:**
+**Research Interests:**
 * ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
-* 🔋 **Ion Sources & Thrusters:** Engineering the next generation of propulsion.
+* 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion.
 * ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
 * 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
-* 🎮 **Game Design:** Applying simulation logic to interactive worlds.
+* 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamifying learning.
 
 ---
 
