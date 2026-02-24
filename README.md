@@ -5,11 +5,11 @@
 
 <p align="center">
 
-  <img src="Bharat.gif" width="30%" alt="pixel" />
+  <img src="Bharat.gif" width="50%" alt="pixel" />
 
 </p>
 
-### 🏆 MISSION ACHIEVEMENTS (GitHub Trophies)
+### GITHUB TROPHIES
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
 </p>
