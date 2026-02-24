@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/b3/pixel-art-mario-gamer-room.gif" alt="Pixel Art Gamer Room" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b5c1-0d3a6406f693.gif" width="100%">
 </p>
 
 # 💫 About Me:
