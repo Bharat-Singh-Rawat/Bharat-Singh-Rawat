@@ -39,6 +39,11 @@
 </p>
 
 <p align="center">
+  <img src="Goku.gif" width="80%" alt="Introduction" />
+</p>
+
+
+<p align="center">
   <img src="gamer-room.gif" width="100%" alt="Gamer Room Banner" />
 </p>
 
@@ -47,10 +52,6 @@
 ### METRICS 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="Goku.gif" width="80%" alt="Introduction" />
 </p>
 
 
