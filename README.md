@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/L6S3/L6S3/main/assets/batman-pixel.gif" width="150">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=850&height=50&lines=INITIALIZING+WAYNE+TECH+BEYOND+OS...;DECRYPTING+CERN+AEgIS+FILES;ACCESSING+THE+ANTIMATTER+CHRONICLES;SUBJECT:+BHARAT+|+RESEARCH+ASSOCIATE" />
 </p>
+
+
+
 💫 About Me:
 I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
 
