@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=150&lines=HELLO!!+MY+NAME+IS+BHARAT.+WELCOME+TO+MY+PROFILE!+I+MANIPULATE+CHARGED+PARTICLES...;नमस्ते!!+मेरा+नाम+भरत+है।+मेरे+प्रोफ़ाइल+में+आपका+स्वागत+है!+मैं+आवेशित+कणों+में+हेरफेर+करता+हूँ...;¡¡HOLA!!+MI+NOMBRE+ES+BHARAT.+¡BIENVENIDO+A+MI+PERFIL!+MANIPULO+PARTÍCULAS+CARGADAS...;ПРИВЕТ!!+МЕНЯ+ЗОВУТ+БХАРАТ.+ДОБРО+ПОЖАЛОВАТЬ+В+МОЙ+ПРОФИЛЬ!+Я+МАНИПУЛИРУЮ+ЗАРЯЖЕННЫМИ+ЧАСТИЦАМИ..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;I+ALSO+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH.;" />
 </p>
 
 ### 🏆 MISSION ACHIEVEMENTS (GitHub Trophies)
