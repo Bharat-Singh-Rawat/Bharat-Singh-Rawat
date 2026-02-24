@@ -2,6 +2,10 @@
   <img src="https://raw.githubusercontent.com/L6S3/L6S3/main/assets/pixel-art.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E21F26&center=true&vCenter=true&width=435&lines=Simulating+the+Multiverse;Tracking+Antimatter;Waking+up+in+the+Upside+Down" />
+</p>
+
 # 💫 About Me:
 I am a Research Associate with the University of Liverpool. Currently, I work with beam dynamics simulations for the AEgIS antimatter experiment at CERN. <br>
 My research interests include ion sources/thrusters, beam extraction/transport, antimatter, particle accelerators, Digital Twins, and Game design.
