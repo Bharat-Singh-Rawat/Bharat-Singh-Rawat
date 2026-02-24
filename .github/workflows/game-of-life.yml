@@ -19,7 +19,7 @@ jobs:
     steps:
       # Generates a game of life SVG from a github user's contributions graph
       - name: generate-game-of-life-svg
-        uses: Platane/snk/svg-only@v3
+        uses: Sleek-S-Cat/github-action-game-of-life@master
         with:
           github_user_name: Bharat26031992
           outputs: |
