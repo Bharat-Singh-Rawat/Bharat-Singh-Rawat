@@ -18,8 +18,24 @@ My research interests include ion sources/thrusters, beam extraction/transport, 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bharat26031992&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bharat26031992&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ⚔️ THE KILL BILL TOOLKIT (Tech Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-yellow?style=for-the-badge&logo=c%2B%2B&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+### 🕹️ SYSTEM STATUS: STABLE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=Bharat26031992&icon=5&color=12" alt="visitor count" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Bharat26031992&limit=5&theme=dark&combine_all_yearly_contributions=true)
