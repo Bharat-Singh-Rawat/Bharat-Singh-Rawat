@@ -1,9 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;I+ALSO+DEVELOP+DIGITAL+TWINS+FOR+ANTIMATTER+RESEARCH.;" />
 </p>
-<p align="center">
- <img src="fading line.gif" width="100%" alt="fadingline" />
-</p
 
 <p align="center">
   <img src="Bharat.gif" width="30%" alt="pixel" />
@@ -70,19 +67,21 @@
 </p>
 
 </p>
-<p align="center">
- <img src="fading line.gif" width="100%" alt="fadingline" />
-</p>
+
 ### METRICS 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
 </p>
-
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
+</p>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=6000&color=E21F26&lines=Thanks+for+visiting!+❤️;Feel+free+to+message+me+for+collaborations!;Keep+Learning,+Keep+Building!">
 </h3>
-
+<p align="center">
+ <img src="fading line.gif" width="100%" alt="fadingline" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bharat26031992&color=E21F26&style=flat-square&label=MISSION+SIGHTINGS" alt="Profile Views" />
 </p>
