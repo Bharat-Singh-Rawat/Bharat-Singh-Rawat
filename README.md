@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=DR.%20BHARAT%20SINGH%20RAWAT&fontSize=50&fontColor=E21F26&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=50&lines=IDENTITY+CONFIRMED:+DR.+BHARAT+SINGH+RAWAT;AFFILIATION:+UNIVERSITY+OF+LIVERPOOL;ACCESSING+CERN+AEgIS+MISSION+LOG...;STATUS:+RESEARCH+ASSOCIATE" />
 </p>
 
----
+### 🕹️ LIVE SYSTEM STATUS (THE SNAKE)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" />
+</p>
 
 ### 📂 SUBJECT: ABOUT ME
 > [!IMPORTANT]
@@ -30,11 +29,6 @@
 
 ---
 
-### 🕹️ LIVE SYSTEM STATUS (THE SNAKE)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" />
-</p>
-
 <p align="center">
   <i>"It's not who I am underneath, but what I do that defines me."</i>
 </p>
@@ -53,11 +47,6 @@
 </p>
 
 ---
-
-### 🕹️ SYSTEM STATUS: STABLE
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
 
 <p align="center">
   <img src="gamer-room.gif" width="100%" />
