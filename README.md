@@ -6,7 +6,7 @@
 <p align="center">
 
   <img src="Bharat.gif" width="30%" alt="pixel" />
-   <img src="fadine line.gif" width="30%" alt="fadingline" />
+   <img src="fading line.gif" width="30%" alt="fadingline" />
 
 </p>
 
