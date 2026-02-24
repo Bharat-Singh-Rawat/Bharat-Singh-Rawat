@@ -77,7 +77,7 @@ RESEARCH INTERESTS
 </p>
 
 <p align="center">
-    <img src="batman.gif" width="50%" alt="joker" />
+    <img src="batman.gif" width="30%" alt="joker" />
   <img src="joker-heath-ledger.gif" width="70%" alt="joker" />
 </p>
 
