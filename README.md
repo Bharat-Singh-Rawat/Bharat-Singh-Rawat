@@ -16,10 +16,10 @@
 </p>
 
 RESEARCH INTERESTS
-* ⚛️ **Antimatter & Particle Accelerators:** Tracking the building blocks of the universe.
+* ⚛️ **Antimatter & Particle Accelerators:** Manipulating the building blocks of the universe.
 * 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
 * ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
-* 🧬 **Digital Twins:** Constructing virtual shadows of physical reality.
+* 🧬 **Digital Twins:** Constructing virtual twins of physical reality.
 * 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
