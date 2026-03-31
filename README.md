@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=60&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;" />
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=60&lines=I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS+AND+DEVELOP+DIGITAL+TWINS.;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=E21F26&center=true&vCenter=true&width=900&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;+I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS+AND+DEVELOP+DIGITAL+TWINS.;" />
 </p>
 
 <p align="center">
