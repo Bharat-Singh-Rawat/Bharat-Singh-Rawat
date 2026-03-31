@@ -12,7 +12,7 @@
 
  GITHUB TROPHIES
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Bharat26031992&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
+  <img src="https://github-trophies.vercel.app/?username=Bharat-Singh-Rawat&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="trophy" />
 </p>
 
 RESEARCH INTERESTS
