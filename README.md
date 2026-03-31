@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=500&color=E21F26&center=true&vCenter=true&width=1000&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=100&color=E21F26&center=true&vCenter=true&width=1000&height=100&lines=HELLO!!;+MY+NAME+IS+BHARAT.;WELCOME+TO+MY+PROFILE!;I+MANIPULATE+CHARGED+PARTICLES+FOR+DIFFERENT+APPLICATIONS.;" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 </p>
 
 RESEARCH INTERESTS
-* ⚛️ **Antimatter & Particle Accelerators:** Manipulating the building blocks of the universe.
-* 🔋 **Ion Sources & Thrusters:** Engineering the next generation of ion propulsion systems.
-* ⚡ **Beam Extraction & Transport:** Precision control of charged particles.
-* 🧬 **Digital Twins:** Constructing virtual twins of physical reality.
+* ⚛️ **Antimatter & Particle Accelerators:** Modelling devices like Penning traps, Faraday cups.
+* 🔋 **Ion Sources & Thrusters:** Designing and Engineering Ion propulsion systems.
+* ⚡ **Beam Extraction & Transport:** Modelling beam extraction (Ion/electron optics) systems.
+* 🧬 **Digital Twins:** Constructing faster and more accurate Reduced Order Models (ROMs).
 * 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
