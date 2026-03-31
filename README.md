@@ -20,7 +20,7 @@ RESEARCH INTERESTS
 * 🔋 **Ion Sources & Thrusters:** Designing and Engineering Ion propulsion systems.
 * ⚡ **Beam Extraction & Transport:** Modelling beam extraction (Ion/electron optics) systems.
 * 🧬 **Digital Twins:** Constructing faster and more accurate Reduced Order Models (ROMs).
-* 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification.
+* 🎮 **Game Design:** Applying simulation logic to interactive worlds and gamification for scientific outreach.
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
 </p>
