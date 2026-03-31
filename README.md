@@ -70,7 +70,7 @@ RESEARCH INTERESTS
 
  METRICS 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat26031992&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-Singh-Rawat&theme=react-dark&bg_color=050505&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" width="100%" />
 </p>
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
