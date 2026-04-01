@@ -26,7 +26,7 @@ RESEARCH INTERESTS
 </p>
  DAILY CONTRIBUTIONS
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat26031992/Bharat26031992/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Bharat-Singh-Rawat/Bharat-Singh-Rawat/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 <p align="center">
  <img src="fading line.gif" width="100%" alt="fadingline" />
