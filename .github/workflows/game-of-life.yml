@@ -1,31 +1,45 @@
-name: Generate Game of Life SVG
+name: Generate Game of Life GIF
 
 on:
   schedule:
     - cron: "0 0 * * *" 
   workflow_dispatch:
-  push:
-    branches:
-    - main
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
-    # THE FIX: Explicitly grant push permissions so the action can commit the SVG
     permissions:
       contents: write
       
     steps:
-      - name: generate-game-of-life-svg
-        uses: Sleek-S-Cat/github-action-game-of-life@master
+      - name: Checkout your repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          github_user_name: Bharat-Singh-Rawat
-          outputs: |
-            dist/game-of-life.svg?palette=github-dark&color_snake=#E21F26&color_dots=#90EE90,#E21F26,#ffcc00,#ff3e3e,#8B0000
-            
-      - name: push game-of-life.svg to the output branch
+          python-version: '3.10'
+
+      - name: Install ImageMagick & Dependencies
+        run: |
+          sudo apt-get install -y imagemagick
+          pip install matplotlib numpy
+
+      - name: Clone Game of Life Generator
+        run: git clone https://github.com/amypeniston/game-of-life.git
+
+      - name: Generate the Animation
+        run: |
+          cd game-of-life
+          # This generates a "Glider" pattern in neon green. 
+          # You can change the seed to "blinker" or "toad"
+          python3 life.py --start-seed "glider" --universe-size "50,10" --cmap "Greens" --n-generations 150 --filename "game-of-life"
+          
+          # Move the generated GIF to a dist folder
+          mkdir -p ../dist
+          mv game-of-life.gif ../dist/
+          
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
