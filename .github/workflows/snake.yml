@@ -8,6 +8,10 @@ on:
   # Allows you to run this job manually from the Actions tab
   workflow_dispatch:
 
+# CRITICAL FIX: Grants the GITHUB_TOKEN permission to push to the output branch
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -18,7 +22,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Bharat-Singh-Rawat
-          # Generates the snake with Kill Bill Yellow (#FFFF00) and Stranger Things Red dots
+          # Generates the snake with Kill Bill Yellow and Stranger Things Red dots
           outputs: |
             dist/github-contribution-grid-snake.svg?color_snake=#FFFF00&color_dots=#0d1117,#4d0000,#990000,#e60000,#ff4d4d
 
