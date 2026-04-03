@@ -1,12 +1,9 @@
 name: Generate Game of Life SVG
 
 on:
-  # Run every 24 hours
   schedule:
     - cron: "0 0 * * *" 
-  # Allow manual refresh
   workflow_dispatch:
-  # Run on every push to the main branch
   push:
     branches:
     - main
@@ -16,8 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
+    # THE FIX: Explicitly grant push permissions so the action can commit the SVG
+    permissions:
+      contents: write
+      
     steps:
-      # Generates a game of life SVG from a github user's contributions graph
       - name: generate-game-of-life-svg
         uses: Sleek-S-Cat/github-action-game-of-life@master
         with:
