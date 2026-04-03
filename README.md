@@ -92,3 +92,6 @@ RESEARCH INTERESTS
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bharat26031992&color=E21F26&style=flat-square&label=MISSION+SIGHTINGS" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bharat-Singh-Rawat/Bharat-Singh-Rawat/output/github-contribution-game-of-life.svg.svg" alt="GitHub Contribution Game of life" />
+</p>
