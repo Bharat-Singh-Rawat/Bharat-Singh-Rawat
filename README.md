@@ -109,7 +109,12 @@ I design and model the hardware that makes and measures charged-particle beams: 
 ### 📈 Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bharat-Singh-Rawat/Bharat-Singh-Rawat/output/github-contribution-grid-snake.svg" alt="Contribution snake" width="100%">
+  <a href="https://bharat-singh-rawat.github.io/CV/cad/#penning">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/contrib/penning-dark.svg">
+      <img src="assets/contrib/penning-light.svg" width="100%" alt="My contributions over the last year as an antiproton annihilation detector: a bunch drifts along a Penning trap and every active day lights up as a hit">
+    </picture>
+  </a>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-Singh-Rawat&theme=react-dark&bg_color=0d1117&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" alt="Contribution graph" width="100%">
