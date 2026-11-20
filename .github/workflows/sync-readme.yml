@@ -1,0 +1,30 @@
+name: Sync README with the CV
+
+# Rebuilds the "Now", "Latest papers" and "In the news" sections from Dossier/profile.js
+on:
+  schedule:
+    - cron: "30 5 * * *"     # every day
+  workflow_dispatch:          # or by hand from the Actions tab
+  push:
+    paths: ["scripts/sync-readme.mjs", ".github/workflows/sync-readme.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Rebuild the README sections
+        run: node scripts/sync-readme.mjs
+      - name: Commit if anything changed
+        run: |
+          if git diff --quiet README.md; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "README: sync with CV"
+          git push
