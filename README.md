@@ -1,8 +1,8 @@
 <p align="center">
   <a href="https://bharat-singh-rawat.github.io/CV/cad/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.webp">
-      <img src="assets/hero-light.webp" width="100%" alt="The octagonal ring-cusp ion source I built for my Ph.D., rendered from its CAD">
+      <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.gif">
+      <img src="assets/hero-light.gif" width="100%" alt="The octagonal ring-cusp ion source I built for my Ph.D., rendered from its CAD">
     </picture>
   </a>
 </p>
