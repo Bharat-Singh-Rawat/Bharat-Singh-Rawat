@@ -118,7 +118,7 @@ I design and model the hardware that makes and measures charged-particle beams: 
 <details>
 <summary><b>🎮 Off duty</b> · the fun side: pixel me, trophies, a few favourite lines and the gamer room</summary>
 <br>
-<p align="center"><img src="assets/bharat-pixel.webp" width="40%" alt="Pixel-art me" loading="lazy"></p>
+<p align="center"><img src="assets/bharat-pixel.gif" width="40%" alt="Pixel-art me" loading="lazy"></p>
 <p align="center"><img src="https://github-trophies.vercel.app/?username=Bharat-Singh-Rawat&theme=gruvbox&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub trophies" loading="lazy"></p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=E21F26&center=true&vCenter=true&width=900&height=80&lines=%22It's+not+who+I+am+underneath%2C+but+what+I+do+that+defines+me.%22;%22Why+do+we+fall%3F+So+that+we+can+learn+to+pick+ourselves+up.%22;%22The+night+is+darkest+just+before+the+dawn.%22;%22Everything's+impossible+until+somebody+does+it.%22" alt="Favourite lines" loading="lazy">
