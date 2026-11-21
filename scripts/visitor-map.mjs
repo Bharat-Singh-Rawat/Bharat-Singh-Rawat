@@ -33,13 +33,14 @@ async function visitors() {
     }
     return { demo: false, list };
 }
-// where I work now: the first role in the CV data (profile.js in the Dossier repo)
+// where I am now: PROFILE.home in the CV data (profile.js in the Dossier repo) if set, else the first role's place
 async function home() {
     try {
-        const code = await (await fetch('https://raw.githubusercontent.com/Bharat-Singh-Rawat/Dossier/main/profile.js')).text();
+        const src = process.env.PROFILE_JS;     // a local profile.js, for trying changes before they are pushed
+        const code = src ? fs.readFileSync(src, 'utf8') : await (await fetch('https://raw.githubusercontent.com/Bharat-Singh-Rawat/Dossier/main/profile.js')).text();
         const ctx = { window: {}, document: { addEventListener() {}, querySelector: () => null, querySelectorAll: () => [] }, console };
         vm.runInNewContext(code, ctx);
-        const p = ctx.window.PROFILE.experience[0].place, q = Array.isArray(p) ? p[0] : p;
+        const P = ctx.window.PROFILE, p = P.home || P.experience[0].place, q = Array.isArray(p) ? p[0] : p;
         if (q && isFinite(q.lat) && isFinite(q.lon)) return { name: q.name, lat: q.lat, lon: q.lon };
     } catch (e) { console.log('profile.js not readable, using the default home:', e.message); }
     return { name: 'Vancouver, Canada', lat: 49.28, lon: -123.12 };
