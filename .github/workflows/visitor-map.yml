@@ -1,0 +1,35 @@
+name: Visitor trajectory map
+
+# Redraws assets/visitors/map-{dark,light}.svg from the website's GoatCounter stats (countries, last 90 days).
+# Needs the repository secret GOATCOUNTER_TOKEN (GoatCounter → Settings → API, with "read statistics").
+on:
+  schedule:
+    - cron: "40 5 * * *"   # once a day
+  workflow_dispatch:
+  push:
+    paths: ["scripts/visitor-map.mjs", "data/land-dots.json", "data/country-centroids.json", ".github/workflows/visitor-map.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Draw the map
+        env:
+          GOATCOUNTER_TOKEN: ${{ secrets.GOATCOUNTER_TOKEN }}
+        run: node scripts/visitor-map.mjs
+      - name: Commit if anything changed
+        run: |
+          git add assets/visitors
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Visitor trajectory map: refresh"
+          git pull --rebase origin main
+          git push

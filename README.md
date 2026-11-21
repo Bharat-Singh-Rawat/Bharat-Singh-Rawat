@@ -117,6 +117,14 @@ I design and model the hardware that makes and measures charged-particle beams: 
   </a>
 </p>
 <p align="center">
+  <a href="https://bharat-singh-rawat.github.io/CV/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/visitors/map-dark.svg">
+      <img src="assets/visitors/map-light.svg" width="100%" alt="Where visitors to my website come from: each country sends a curved particle track that spirals in to where I work now">
+    </picture>
+  </a>
+</p>
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharat-Singh-Rawat&theme=react-dark&bg_color=0d1117&color=E21F26&line=E21F26&point=90EE90&area=true&hide_border=true" alt="Contribution graph" width="100%">
 </p>
 
