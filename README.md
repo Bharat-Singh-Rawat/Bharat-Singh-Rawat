@@ -27,7 +27,7 @@ I design and model the hardware that makes and measures charged-particle beams: 
 ### 🔭 Now
 
 <!-- NOW:START -->
-**Accelerator Physicist** · Basilisk Industries, Vancouver, Canada · <sub>10/2026 — Present</sub>
+**Accelerator Physicist** · Basilisk Industries, Vancouver, Canada (Remote) · <sub>10/2026 — Present</sub>
 
 - Responsible for electron injector design, electron optics analysis and optimisation.
 - Developing plasma and beam diagnostics such as B-dot probes, Faraday cups, Langmuir probes and current monitors.
