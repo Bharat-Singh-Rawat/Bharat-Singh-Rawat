@@ -13,6 +13,21 @@ const DAYS = 90;
 const OUT = 'assets/visitors';
 
 // ---------- data ----------
+// GoatCounter sometimes answers a valid request with a one-off error (e.g. 404 on 2026-11-24, fine a minute later):
+// try up to 3 times, 30 s apart, before failing the run.
+async function goat(url, tries = 3, waitMs = 30e3) {
+    for (let k = 1; ; k++) {
+        let err;
+        try {
+            const res = await fetch(url, { headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'visitor-map' } });
+            if (res.ok) return await res.json();
+            err = new Error(`GoatCounter ${res.status}: ${await res.text()}`);
+        } catch (e) { err = e; }
+        if (k >= tries) throw err;
+        console.log(`Attempt ${k}/${tries} failed (${err.message}); retrying in ${waitMs / 1e3} s`);
+        await new Promise(r => setTimeout(r, waitMs));
+    }
+}
 async function visitors() {
     if (process.env.DEMO) return { demo: true, list: [['GB', 120], ['US', 95], ['IN', 80], ['CH', 44], ['DE', 31], ['FR', 22], ['CA', 40], ['ES', 14], ['IT', 12], ['JP', 9], ['CN', 8], ['BR', 6], ['AU', 6], ['RU', 5], ['NL', 7], ['UZ', 3], ['CO', 3], ['ZA', 2], ['KR', 4], ['SG', 3]] };
     if (!token) { console.log('No GOATCOUNTER_TOKEN: nothing to draw (add it as a repository secret).'); process.exit(0); }
@@ -21,9 +36,7 @@ async function visitors() {
     let offset = 0;
     for (let page = 0; page < 10; page++) {
         const url = `https://${SITE}.goatcounter.com/api/v0/stats/locations?start=${d(start)}&end=${d(end)}&limit=100&offset=${offset}`;
-        const res = await fetch(url, { headers: { Authorization: `Bearer ${token}`, 'Content-Type': 'application/json', 'User-Agent': 'visitor-map' } });
-        if (!res.ok) throw new Error(`GoatCounter ${res.status}: ${await res.text()}`);
-        const j = await res.json();
+        const j = await goat(url);
         for (const s of j.stats || []) {
             const code = String(s.id || '').toUpperCase().slice(0, 2), n = s.count_unique ?? s.count ?? 0;
             if (/^[A-Z]{2}$/.test(code) && n > 0) list.push([code, n]);
