@@ -22,7 +22,7 @@
   <a href="mailto:bharat.bharat22@gmail.com"><img src="https://img.shields.io/badge/Email-get%20in%20touch-34C759?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I design and model the hardware that makes and measures charged-particle beams: ion sources and their extraction grids, Faraday cups and energy analysers, and the Penning–Malmberg traps of CERN's AEgIS antimatter experiment. Most of it starts as a simulation and ends on a lab bench, and much of the code is here.
+I design and model charged-particle beams and their hardware setups: ion/electron sources and their extraction systems, Faraday cups and energy analysers, and the Penning–Malmberg traps of CERN's AEgIS antimatter experiment. Most of it starts as a simulation and ends on a lab bench, and much of the code is here.
 
 ### 🔭 Now
 
